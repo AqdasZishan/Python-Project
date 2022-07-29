@@ -27,3 +27,7 @@ FUNCTIONS OF LIBRARY MANAGEMENT SYSTEM :-
 ● Settings : This module has two buttons (functions) :-
  I. Change Password : This module allows the administrator (librarian) to change the login password for the program.
 II. About : This module allows the client to view the details of the program i.e the purpose and current version of the program. Close button closes the settings window.
+
+HIGHLIGHTED FEATURE :-
+
+Security : This program makes the data secure and safe with its login password security feature. With this feature private data of students can be kept secure. This feature also allows the administrator (librarian) to change the password. By default there is no password and the username is ‘admin’. Password can be changed by clicking the ‘change password’ button under the ‘settings’ option. It will ask for the current password, if the current password matches then the client can set a new password and then confirm it. After setting a new password, the program reruns and login page appears. The password and username are saved in separate binary files so that it can be kept encrypted and secure.
