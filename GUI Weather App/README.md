@@ -1,1 +1,1 @@
-THis is a GUI Weather Application.
+This is a GUI Weather Application.
